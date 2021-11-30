@@ -507,7 +507,7 @@ a.active {
     opacity: 0;
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-    color: #170D04;
+    color: #CC9E76;
 }
 
 .portfolio_item .portfolio_item_hover .item_info {
@@ -536,7 +536,7 @@ a.active {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #551B14;
+    background-color: #CC9E76;
     padding: 5px 20px;
     color: #fff;
     margin-top: 10px;
@@ -745,7 +745,7 @@ fieldset {
 }
 
 .social li a {
-    color: ##170D04;
+    color: #170D04;
     font-size: 35px;
     margin-right: 15px;
     transition: all .3s;
@@ -755,6 +755,18 @@ fieldset {
 .social li a:hover {
     color: #551B14;
 }
+
+/* Modal
+==================================================*/
+
+.hide{
+    display: none;
+}
+
+.display{
+    display: block;
+}
+
 
 
 /* Responsive media queries
