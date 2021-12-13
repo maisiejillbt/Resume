@@ -756,6 +756,19 @@ fieldset {
     color: #551B14;
 }
 
+.social span{
+    display:none;
+}
+
+.social li a:hover span{
+    position:absolute;
+    font-size: 15px;
+    left:8px;
+    display:block;
+}
+
+
+
 /* Modal
 ==================================================*/
 
