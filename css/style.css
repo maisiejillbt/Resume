@@ -627,6 +627,10 @@ a.active {
     line-height: 50px;
 }
 
+.modal-content a:last-of-type strong{
+    margin-left:20px;
+}
+
 
 /* contact
 ==================================================*/
